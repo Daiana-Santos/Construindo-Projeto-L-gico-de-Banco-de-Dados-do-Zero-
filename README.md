@@ -1,8 +1,8 @@
 # Construindo Projeto Lógico de Banco de Dados do Zero 
  Desafio Dio DataBase Experience Construindo Projeto Lógico de Banco de Dados cenário Oficina do Zero 
-* Desafio *
-Criar o esquema lógico para o contexto de uma oficina utilizand o esquema conceitual, criado no desafio do módulo de modelagem de BD com modelo ER.
-Definir todas as etapas, criação do Script SQL, criação do esquema do banco de dados, persistência de dados para realização de testes.
+ * Desafio 
+ Criar o esquema lógico para o contexto de uma oficina utilizand o esquema conceitual, criado no desafio do módulo de modelagem de BD com modelo ER.
+ Definir todas as etapas, criação do Script SQL, criação do esquema do banco de dados, persistência de dados para realização de testes.
  * Crie queries SQL com as cláusulas abaixo:*
  - Recuperações simples com SELECT Statement;
  - Filtros com WHERE Statement;
